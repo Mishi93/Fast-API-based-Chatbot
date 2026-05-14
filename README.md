@@ -26,4 +26,3 @@ In this project, we create a Retrieval-Augmented Generation (RAG) chatbot using 
 🔍 Semantic search using embeddings
 🌐 Easy API integration with frontend apps
 
-achineLearning #LangChain #LLM #ArtificialIntelligence #OpenAI
